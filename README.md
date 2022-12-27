@@ -1,4 +1,6 @@
 ﻿# react-firebase-v9-chat
+ 
+ ## React + Firebase 9 + Typescript
 
 <p><a href="https://react-firebase-v9-chat.vercel.app/" title="Redirect to Firebase chat">
 <img 
