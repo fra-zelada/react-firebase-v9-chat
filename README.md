@@ -21,3 +21,4 @@ VITE_MESSAGINGSENDERID=
 VITE_APPID=
 VITE_MEASUREMENTID=
 ```
+Para producción se debe agregar el dominio en firebase en la opción "Dominios Autorizados"
