@@ -9,3 +9,15 @@ src="https://res.cloudinary.com/dwvkka6mz/image/upload/v1671228926/chat_jwdaog.p
 Pequeña aplicación de sala de chat desarrollado aplicando autenticación con Google. Se utilizan las librerías de firebase y react-firebase-hooks. Este ejercicio es del canal de youtube de fireship en el cual originalmente se hizo con firebase 7, por mi parte lo actualicé a firebase 9 y reemplacé javascript por typescript.
 
 Aplicación basada en https://github.com/fireship-io/react-firebase-chat
+
+Para arrancar la aplicación se deben llenar las variables de entorno con los valores entregados por firebase ( ejemplo en minuto 2:24 https://www.youtube.com/watch?v=zQyrwxMPm88&ab_channel=Fireship )
+
+```javascript
+VITE_APIKEY=
+VITE_AUTHDOMAIN=
+VITE_PROJECTID=
+VITE_STORAGEBUCKET=
+VITE_MESSAGINGSENDERID=
+VITE_APPID=
+VITE_MEASUREMENTID=
+```
