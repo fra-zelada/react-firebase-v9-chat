@@ -23,4 +23,8 @@ VITE_MESSAGINGSENDERID=
 VITE_APPID=
 VITE_MEASUREMENTID=
 ```
-Para producción se debe agregar el dominio en firebase en la opción "Dominios Autorizados"
+Para producción se debe agregar el dominio en firebase en la opción "Dominios Autorizados" ...
+```bash
+https://console.firebase.google.com/u/0/project/ **YOUR_PROJECT_ID** /authentication/settings
+```
+
